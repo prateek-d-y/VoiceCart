@@ -1,0 +1,39 @@
+# ========================
+# Backend (Spring Boot / Maven)
+# ========================
+backend/target/
+backend/*.class
+
+# Eclipse / IDE files
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.apt_generated/
+backend/.apt_generated_tests/
+
+# Maven wrapper (optional ignore if present)
+backend/.mvn/
+backend/.maven/
+
+# ========================
+# Frontend (React / Vite)
+# ========================
+frontend/node_modules/
+frontend/dist/
+
+# Optional (you CAN keep package-lock.json, but ok to ignore if you want)
+# frontend/package-lock.json
+
+# ========================
+# Common
+# ========================
+*.log
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+.vscode/
+.idea/
