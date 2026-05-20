@@ -7,6 +7,11 @@ VoiceCart is a full-stack web application designed to simulate a BPO system wher
 - **Frontend**: React, Vite, Axios, React Router DOM
 - **Database**: MySQL 8.0
 
+## Quick Video
+
+https://github.com/user-attachments/assets/117a6514-ecbb-4a2e-93d2-0b9126316428
+
+
 ## Setup Instructions
 
 ### 1. Database Setup
